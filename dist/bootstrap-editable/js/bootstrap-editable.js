@@ -1374,10 +1374,10 @@ Applied as jQuery method.
 
         @property onblur 
         @type string
-        @default 'cancel'
+        @default 'ignore'
         @since 1.1.1
         **/        
-        onblur: 'cancel',
+        onblur: 'ignore',
         
         /**
         Animation speed (inline mode only)
